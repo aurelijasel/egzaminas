@@ -139,5 +139,5 @@ cd Debug
 1. Paleidus programą, terminale bus paprašyta įvesti failo pavadinimą.
 2. Programa apdoroja tekstą ir sugeneruoja rezultatų failus.
 3. Jei randami URL adresai, vartotojas pasirenka:
-  T – URL išvesti terminale
-  F – URL išvesti į failą
+  - T – URL išvesti terminale
+  - F – URL išvesti į failą
