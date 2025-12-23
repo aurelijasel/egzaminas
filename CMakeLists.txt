@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.25)
+project(failo_rusiavimo_programa)
+include_directories(include)
+file(GLOB SOURCES "src/*.cpp")
+add_executable(failo_rusiavimo_programa ${SOURCES})
