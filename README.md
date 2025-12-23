@@ -58,44 +58,6 @@ Programa sugeneruoja šiuos failus:
 - url_sarasas.txt  
   Rasti URL adresai (jei pasirinkta išvestis į failą)
 
-## Naudojimosi instrukcija
-
-### Programos atsisiuntimas
-1. Parsisiųsti CMake (ne senesnę nei 3.25.0 versiją):  
-   https://cmake.org/download/
-2. Atsisiųsti CMakeLists.txt, run.bat, .cpp ir .h failus iš GitHub.
-3. Kompiuteryje sukurti aplanką, pvz. „cmaketest“.
-4. Į „cmaketest“ įkelti:
-   - CMakeLists.txt
-   - run.bat
-   - cmake.exe
-5. „cmaketest“ aplanke sukurti aplankus:
-   - src (įkelti .cpp failus)
-   - include (įkelti .h failus)
-
-### Kompiliavimas ir paleidimas
-
-Terminale vykdyti komandas:
-```
-cmake .\CMakeLists.txt
-```
-```
-cmake --build .
-```
-```
-cd Debug
-```
-```
-.\failo_rusiavimo_programa.exe
-```
-
-### Programos paleidimas
-1. Paleidus programą, terminale bus paprašyta įvesti failo pavadinimą.
-2. Programa apdoroja tekstą ir sugeneruoja rezultatų failus.
-3. Jei randami URL adresai, vartotojas pasirenka:
-  T – URL išvesti terminale
-  F – URL išvesti į failą
-
 ### Rezultatų pavyzdžiai
 
 **zodziu_skaicius.txt**
@@ -141,3 +103,41 @@ Aplanke bus pateikti šie failai:
 
 Šie failai parodo pilną programos veikimą su realiu,
 didelės apimties tekstu.
+
+## Naudojimosi instrukcija
+
+### Programos atsisiuntimas
+1. Parsisiųsti CMake (ne senesnę nei 3.25.0 versiją):  
+   https://cmake.org/download/
+2. Atsisiųsti CMakeLists.txt, run.bat, .cpp ir .h failus iš GitHub.
+3. Kompiuteryje sukurti aplanką, pvz. „cmaketest“.
+4. Į „cmaketest“ įkelti:
+   - CMakeLists.txt
+   - run.bat
+   - cmake.exe
+5. „cmaketest“ aplanke sukurti aplankus:
+   - src (įkelti .cpp failus)
+   - include (įkelti .h failus)
+
+### Kompiliavimas ir paleidimas
+
+Terminale vykdyti komandas:
+```
+cmake .\CMakeLists.txt
+```
+```
+cmake --build .
+```
+```
+cd Debug
+```
+```
+.\failo_rusiavimo_programa.exe
+```
+
+### Programos paleidimas
+1. Paleidus programą, terminale bus paprašyta įvesti failo pavadinimą.
+2. Programa apdoroja tekstą ir sugeneruoja rezultatų failus.
+3. Jei randami URL adresai, vartotojas pasirenka:
+  T – URL išvesti terminale
+  F – URL išvesti į failą
