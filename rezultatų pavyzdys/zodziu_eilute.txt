@@ -1,0 +1,172 @@
+Zodis               Eilutes
+----------------------------------------
+a                   {17, 40, 51, 53, 55}
+agila               {40}
+anglų              {73, 79}
+antantės           {17}
+apie                {24, 44, 53, 82, 85}
+arba                {30, 37, 40}
+audras              {64}
+aukščiausia       {29, 30}
+be                  {59, 68}
+bet                 {8, 64}
+buvo                {8, 10, 19, 40, 42, 53, 59, 64}
+d                   {17, 19, 23, 46}
+dalis               {3, 17, 19, 59}
+dalyje              {5, 55, 61}
+dalį               {55, 59}
+dar                 {10, 51, 68}
+daug                {40, 44, 64}
+daugiausia          {10, 37, 59}
+didelė             {64}
+duomenimis          {37, 55}
+esančiam           {8}
+gyveno              {55, 61}
+gyventojai          {42, 48, 51, 61}
+gyventojų          {55, 59}
+gyvenvietės        {3, 32, 51}
+ha                  {26, 46}
+iki                 {40, 42, 55}
+iliustr             {72, 75, 76}
+ir                  {3, 5, 8, 10, 12, 17, 19, 23, 32, 40, 42, 44, 46, 51, 55, 58, 59, 64, 66, 75}
+isbn                {71, 72, 74, 75, 76, 77}
+iš                 {8, 12, 23, 24, 37, 40, 42, 44, 55, 58, 64, 68, 80}
+išilgai            {3, 8}
+j                   {42, 58}
+ji                  {10, 64}
+jokužio            {72, 73}
+juodkrantė         {32, 42}
+jūros              {1, 64, 66}
+jūrą              {64}
+k                   {58, 79, 84}
+kad                 {8, 12, 64, 68}
+kaimų              {40}
+kaip                {10, 17, 42, 51}
+kalba               {73, 85}
+kaliningrado        {3, 5, 19, 24}
+karaliaučiaus      {17, 24}
+karo                {40, 59}
+kartą              {17, 64}
+karvaičiai         {40}
+kelias              {3, 17, 44, 73}
+kilmės             {8, 12}
+kiti                {40, 44}
+klaipėda           {72, 73, 74, 75, 76, 77}
+klaipėdos          {3, 17, 19, 32, 77}
+klimatas            {34, 37}
+km                  {24, 30}
+kopa                {30}
+kopgalyje           {24, 42}
+kopomis             {1, 10}
+kopos               {30, 36, 40, 42, 83}
+kovo                {19}
+kranto              {8, 24}
+krašto             {3, 17}
+kryžiuočių       {17}
+kurios              {3, 40, 64}
+kurių              {44, 55}
+kuršininkai        {55}
+kuršių            {1, 5, 16, 17, 19, 23, 29, 32, 37, 40, 42, 44, 51, 55, 59, 66, 71, 72, 73, 75, 76, 77, 80, 82, 83, 84, 85}
+latmiškis          {40}
+leidykla            {75, 76, 77}
+leidyklaspaustuvė  {72, 73}
+liet                {53}
+lietuvai            {24, 59, 61}
+lietuvos            {3, 5, 17, 19, 44}
+m                   {1, 17, 19, 23, 29, 30, 32, 40, 42, 46, 51, 53, 55, 59, 61}
+marias              {1, 64}
+mažuma             {55}
+metrų              {24}
+metu                {40, 51}
+metų               {37, 40, 42, 68}
+miesto              {3, 32}
+miškai             {26, 40, 42}
+miško              {46}
+nacionalinio        {44, 80, 84}
+nacionalinis        {5, 82, 83}
+nagliai             {40}
+neolito             {51}
+nerija              {1, 5, 8, 10, 17, 40, 44, 51, 59, 64, 68, 73, 75, 76}
+nerijoje            {24, 37, 40, 51, 53}
+nerijos             {3, 5, 8, 16, 17, 19, 23, 24, 29, 32, 42, 44, 55, 59, 72, 77, 80, 82, 83, 84, 85}
+neriją             {17, 19, 44, 64, 66, 71}
+neringa             {64, 66, 74, 81}
+neringos            {3, 32, 61, 66}
+nešė              {64}
+nida                {32, 40, 50}
+nidos               {24, 42}
+nijolė             {73, 75, 76}
+nuo                 {1, 17, 24, 40, 46, 64}
+o                   {3, 10, 17, 19, 24, 42, 53, 55, 59}
+ordino              {17}
+p                   {72, 75, 76, 77}
+pagal               {17, 66}
+paknio              {75, 76}
+pakraštys          {3, 24}
+parkas              {5, 82, 83}
+parko               {44, 80, 82, 84}
+paukščių         {44}
+per                 {17, 37, 44, 64}
+perėmė            {12, 19}
+pietinėje          {55}
+pilkieji            {44}
+pilkopė            {40}
+plotas              {24, 42}
+po                  {8, 17, 19, 30, 68, 71}
+pr                  {40, 51}
+prie                {8, 17, 19, 32, 66}
+prieš              {40}
+prijungta           {17, 19}
+priklauso           {3, 24}
+priklausė          {17}
+prūsijos           {17}
+pusiasalio          {3, 30, 55}
+pusiasalis          {1, 40, 51}
+pusiasaliui         {8}
+r                   {75, 76}
+rado                {53}
+rasytė             {3, 53}
+rusijos             {3, 19, 84, 85}
+rusų               {53, 59, 84, 85}
+rytprūsių         {19, 55}
+rūšys             {44}
+s                   {42, 72, 73}
+savo                {42}
+senoji              {40}
+senosios            {29, 30}
+smiltynė           {17, 32, 40, 42}
+smuklės            {29, 30}
+smėlio             {1, 8, 24, 36, 40, 42, 64}
+srityje             {5, 24}
+strakauskaitė      {73, 75, 76}
+su                  {1, 8, 19, 42, 55}
+sud                 {72, 75, 76, 77}
+sudaro              {24, 26, 42}
+supylė             {64, 66}
+ta                  {64, 68}
+tapo                {19, 40}
+tarp                {42, 44, 55}
+teritorija          {5, 17, 19}
+ties                {24, 53}
+unesco              {1, 79}
+v                   {75, 76}
+vadovas             {71, 75, 76}
+vandenį            {8, 64}
+vardu               {17}
+vecekrugo           {29, 30}
+vieta               {24, 29}
+vikingų            {12, 53}
+viso                {24, 40, 44}
+vokietijai          {17, 19}
+vokietiją          {59}
+vokiečių          {53, 55}
+vėliau             {8, 17}
+xix                 {40, 51, 55}
+yra                 {3, 8, 24, 30, 32, 73}
+čia                {44}
+šarkuva            {3, 40, 42}
+šiaurinis          {3, 24}
+šiaurinė          {3, 17, 19, 59}
+šiaurinėje        {55, 61}
+žmonių            {51, 64}
+žodis              {8}
